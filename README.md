@@ -7,7 +7,8 @@ Developer. Full Stack. Mobile Dev. Cybersecurity.
 I am a dedicated and passionate computer science student at EASV Esbjerg.
 
 * 🌍  I'm based in Denmark, Esbjerg
-* 🧠  I'm learning Mobile dev: Dart, Fluck. FullStack: WebSockets. Cybersecurity: VM Linux and Ubunto.
+* 🧠  I'v learned Mobile dev: Dart, Fluck. FullStack: WebSockets. Cybersecurity: VM Linux and Ubunto during my Studies.
+*     Currently Doing my bachulers degree in software development
 
 ### Skills
 
